@@ -1,0 +1,7 @@
+Day 1 : 23/02/2022
+
+// Flutter is a framework that uses DART as a language to create multi domain(Android and IOS) apps and webpages.
+// In flutter architecture, everything is a widget and programs is basically a widget tree. Flutter uses the concept
+        "UI as Code".
+//  Flutter and DART, both are developed by Google. 
+// My day 1 learning end with installing Flutter and it's components like Andriod Studio, git etc.
